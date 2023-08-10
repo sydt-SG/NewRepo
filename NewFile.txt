@@ -1,6 +1,9 @@
 Twilio is an American company based in San Francisco, California, which provides programmable communication tools for making and receiving phone calls, sending and receiving text messages, and performing other communication functions using its web service APIs.
 
 History
-Twilio was founded in 2008 by Jeff Lawson, Evan Cooke, and John Wolthuis[3] and was based initially in Seattle, Washington, and San Francisco, California.[4]
 
 On November 20, 2008, the company launched Twilio Voice, an API to make and receive phone calls completely hosted in the cloud.[5] Twilio's text messaging API was released in February 2010,[6] and SMS shortcodes were released in public beta in July 2011.[7]
+
+In July 2015, Twilio raised a $130 million Series E from Fidelity, T Rowe Price, Altimeter Capital Management, and Arrowpoint Partners, in addition to Amazon and Salesforce.[12]
+
+Twilio filed for IPO (NYSE: TWLO) and started trading on June 23, 2016, with a 92% increase on the first day.[13]
