@@ -1,1 +1,6 @@
 Twilio is an American company based in San Francisco, California, which provides programmable communication tools for making and receiving phone calls, sending and receiving text messages, and performing other communication functions using its web service APIs.
+
+History
+Twilio was founded in 2008 by Jeff Lawson, Evan Cooke, and John Wolthuis[3] and was based initially in Seattle, Washington, and San Francisco, California.[4]
+
+On November 20, 2008, the company launched Twilio Voice, an API to make and receive phone calls completely hosted in the cloud.[5] Twilio's text messaging API was released in February 2010,[6] and SMS shortcodes were released in public beta in July 2011.[7]
